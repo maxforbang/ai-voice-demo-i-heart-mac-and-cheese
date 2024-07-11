@@ -166,7 +166,7 @@ function Services() {
 }
 
 export const metadata = {
-  description: 'The Joint Voice AI Demo.',
+  description: 'I Heart Mac & Cheese Voice AI Demo.',
 }
 
 export default async function Home() {

@@ -4,8 +4,8 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - The Joint',
-    default: 'The Joint Voice AI Demo',
+    template: '%s - I Heart Mac & Cheese',
+    default: 'I Heart Mac & Cheese Voice AI Demo',
   },
 }
 
